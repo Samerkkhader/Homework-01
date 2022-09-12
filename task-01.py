@@ -1,3 +1,11 @@
+"""
+Write a function that returns the letter grade based on an input number grade.
+This is a simple if statement.
+If x is greater than or equal to 90 return A and so on.
+Write the function and demonstrate that it works with by running it.
+Add assert statement after your demonstration to show how you can test something.
+"""
+
 def number_to_letter(grade):
     if grade >= 90 :
         return "A"
