@@ -1,0 +1,2 @@
+import primenumbers                           # use import command to import the module we saved before as primenumbers
+primenumbers.list_of_prime_numbers(200)       # from primenumbers module, use the function list_of_prime_numbers and run it on the argument 200
